@@ -24,6 +24,7 @@ _Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 
+**Seeing your _action_ in action**: The status of your action is shown in a pull request before you merge, look for **All checks have passed** when you try out the steps below. You can also view them from the **Actions** tab in your repository. From there, you will see all the actions that have run, and you can click on each action to view details and access log files. 😄
 Here's a recap of all the tasks you've accomplished in your repository:
 
 - You've created your first GitHub Actions workflow file.
